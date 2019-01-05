@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+/usr/bin/docker build --tag shellbro-local/centos-molecule .
